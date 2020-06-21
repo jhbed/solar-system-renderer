@@ -1,0 +1,9 @@
+/blender_files
+*/assets
+*/frames
+*/objs
+*/objsapp
+*/objsrendering
+/tinyraytracer/tinyraytracer*
+*/.DS_Store
+.DS_Store
