@@ -1,6 +1,6 @@
 # Solar System Renderer
 
-This project is a work in Progress and is being developed by Jake Bedard and Jon Bedard (Jon doesn't have a Github). 
+This project is a work in Progress and is being developed by Jake Bedard and [Jon Bedard](https://github.com/bedardjo/). 
 
 ## Features
  - A tool for rendering realistic 3D video animations of the solar system
